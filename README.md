@@ -8,4 +8,4 @@ However, determining the research performance seems to be more objective if anal
 
 Moreover, grouping papers by the author contribution (the first author, the middle author, or the last author) may give another degree of freedom in analyzing one's research performance.
 
-Obtained in this way findings may surprise eve the researcher of interest. For example, one paper of V. Turlo published in 2018 received 8 citations, which doesn't seem to be a lot. However, by comparison with the corresponding percentiles for the papers published in the field of Materials Science in 2018, one may discover that V Turlo's paper belongs to the top 1% most cited papers in the field.
+Obtained in this way findings may surprise even the researcher of interest. For example, one paper of V. Turlo published in 2018 received 8 citations in the beginning of 2019, which doesn't seem to be a lot. However, by comparison with the corresponding percentiles for the papers published in the field of Materials Science in 2018, one may discover that V Turlo's paper belongs to the top 1% most cited papers in the field.
