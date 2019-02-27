@@ -4,7 +4,7 @@ The analysis provided in this folder uses an available statistical data to deter
 
 While comparing the age, at which PhD degree was received, or the length of the PhD study might depend on a lot on circumstances, this might be just a good information to know.
 
-However, determining the research performance seems to be more objective if analysing each paper (1) by how large is the journal impact factor the paper was published at as compared to other journals in the field, or (2) by how well the paper is cited as compared to the other papers in the field published at the same year.
+However, determining the research performance seems to be more objective if analyzing each paper (1) by how large is the journal impact factor the paper was published at as compared to other journals in the field, or (2) by how well the paper is cited as compared to the other papers in the field published at the same year.
 
 Moreover, grouping papers by the author contribution (the first author, the middle author, or the last author) may give another degree of freedom in analyzing one's research performance.
 
