@@ -1,6 +1,6 @@
 # Uncovering one's research performance
 
-The analysis provided in this folder uses an available statistical data to determine one's research performance in a way that it can be included into the resume.
+The analysis provided in this folder uses an available statistical data to determine one's research performance in a way that it can be included into the academic CV or resume.
 
 While comparing the age, at which PhD degree was received, or the length of the PhD study might depend on a lot on circumstances, this might be just a good information to know.
 
